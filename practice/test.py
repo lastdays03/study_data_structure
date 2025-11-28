@@ -1,0 +1,14 @@
+n = 300
+n2 = n
+print(n == n2)
+print(n is n2)
+print(1 == 1)
+print(1 is 1)
+n3 = 10
+n4 = 10
+print(n3 == n4)
+print(n3 is n4)
+a1 = [1,2,3]
+a2 = [1,2,3]
+print(a1 == a2)
+print(a1 is a2)
